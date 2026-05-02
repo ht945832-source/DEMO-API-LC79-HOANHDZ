@@ -1,0 +1,16 @@
+{
+  "name": "diamond-ai-supreme",
+  "version": "14.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fastify": "^4.26.0",
+    "@fastify/cors": "^9.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
